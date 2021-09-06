@@ -2,6 +2,7 @@
   "private": true,
   "name": "zmap-hooks",
   "version": "1.0.0",
+  "homepage": "https://wangqinyong1994.github.io/dumi-po",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
